@@ -1,0 +1,17 @@
+[
+  {
+    "name": "circle",
+    "nodeIcon": "○",
+    "leafIcon": "●"
+  },
+  {
+    "name": "square",
+    "nodeIcon": "□",
+    "leafIcon": "■"
+  },
+  {
+    "name": "math",
+    "nodeIcon": "+",
+    "leafIcon": "*"
+  }
+]
